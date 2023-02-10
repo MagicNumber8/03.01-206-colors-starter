@@ -10,7 +10,7 @@ html, body {
 }
 
 #wrapper {
-  width: 100%;
+  width: 30%;
   max-width: 960px;
   margin: auto;
 }
@@ -58,25 +58,25 @@ footer {
 /*---------- TABLET ----------*/
 /* Change the background colors below */
 
-@media (min-width: 768px) {
+@media (min-width: 100%) {
   header {
-    background-color: ;
+    background-color: #e3e3e3;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #E7CEE9 ;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #CA9DCE ;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #8A458F;
   }
 
   footer {
-    background-color: ;
+    background-color: #e3e3e3;
   }
   
 }
@@ -85,23 +85,23 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color: #e3e3e3;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #E7CEE9 ;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #CA9DCE;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #8A458F;
   }
 
   footer {
-    background-color: ;
+    background-color: #e3e3e3;
   }
    
 }
